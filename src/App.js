@@ -1,4 +1,3 @@
-import React, { useState } from 'react';
 import './App.css';
 import Cards from './Cards';
 import Sdata from './Sdata';
