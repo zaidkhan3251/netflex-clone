@@ -10,7 +10,7 @@ function Cards(props) {
                     <div className="card_info">
                         <span className="card_category">{props.title}</span>
                         <h3 className="card_title">{props.sname}</h3>
-                        <a href={props.link} target="_blank">
+                        <a href={props.link} >
                             <button className="btn">Watch Now</button>
                         </a>
                     </div>
