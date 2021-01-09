@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700');
+body{
+  background-color: black;      
+  
+  
+}
+
+h1{
+  position: sticky;
+  top: 0px;
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  justify-content: center;
+  background: linear-gradient(to bottom left, #9b90f1 40%, #ff9ea2 100%);
+}
+.main{
+  
+  display: grid;
+  grid-template-columns: 400px 400px 400px;
+  margin: auto;
+  justify-content: center;
+  text-align: center;
+  /*color: #272727;
+  font-family: 'Quicksand', serif;
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+  padding: 1rem; */
+  
+  
+}
